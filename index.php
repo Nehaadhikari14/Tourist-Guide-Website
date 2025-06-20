@@ -10,6 +10,7 @@
 </head>
 <body>
 <?php include'menu.php'; ?>
+<div id="home"></div>
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -46,7 +47,7 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
-<section class="my-5">
+<section id="about" class="my-5">
     <div class="py-5">
         <h2 class="text-center">About Us </h2>
     </div>
@@ -64,7 +65,7 @@
     </div>
 
 </section>
-<section class="my-5">
+<section id="services" class="my-5">
     <div class="py-5">
         <h2 class="text-center">Our Services</h2>
     </div>
@@ -106,7 +107,7 @@
         </div>
     </div>
 </section>
-<section class="my-5">
+<section id="gallery" class="my-5">
     <div class="py-5">
         <h2 class="text-center">Gallery</h2>
     </div>
@@ -141,7 +142,7 @@
         </div>
       </div>
     </div>
-<section class="my-5">
+<section id="contact" class="my-5">
    <div class="py-5">
        <h2 class="text-center">Contact Us</h2>
    </div>
