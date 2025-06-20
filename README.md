@@ -42,7 +42,7 @@ Run Locally (With PHP + MySQL)
 4. Visit http://localhost/your-folder/index.php
 5. Set up MySQL database:
 
-sql
+sql-
 CREATE DATABASE userdata;
 USE userdata;
 CREATE TABLE userinfodata (
