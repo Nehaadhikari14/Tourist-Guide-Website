@@ -65,7 +65,7 @@ For Reviewers
 - Clear backend processing with form input.
 - GitHub Pages for frontend demo + XAMPP for local backend.
 
-⭐ Show Some Love
+Show Some Love
 Star ⭐ the repo if you found this project helpful!
 
 
