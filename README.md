@@ -31,18 +31,18 @@ Project Structure
 Video Demo
 
 If you'd like to see the website working with full backend functionality (PHP & MySQL), watch the demo below:
-🔗 [Click here to watch the demo](https://your-video-link.com)
+[Click here to watch the demo](https://your-video-link.com)
 This demo shows how the contact form, search scroll, and other features work on a local XAMPP server.
 
 Run Locally (With PHP + MySQL)
 
-1. Install **XAMPP**
-2. Place project folder in `htdocs`
+1. Install XAMPP
+2. Place project folder in htdocs
 3. Start Apache & MySQL
-4. Visit `http://localhost/your-folder/index.php`
+4. Visit http://localhost/your-folder/index.php
 5. Set up MySQL database:
 
-```sql```
+sql
 CREATE DATABASE userdata;
 USE userdata;
 CREATE TABLE userinfodata (
