@@ -28,12 +28,6 @@ Project Structure
 - redirect.php → Search term redirect logic
 - README.md → Project documentation
 
-Live Demo (Frontend Only)
-
-You can preview the UI via GitHub Pages (no PHP will run):
-🔗 [https://Nehaadhikari14.github.io/Tourist-Guide-Website](https://yourusername.github.io/tourist-guide) 
-GitHub Pages supports only static frontend — backend logic (PHP, MySQL) must be run locally.
-
 Video Demo
 
 If you'd like to see the website working with full backend functionality (PHP & MySQL), watch the demo below:
