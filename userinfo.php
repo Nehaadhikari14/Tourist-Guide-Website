@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect('localhost','root');
+$con = mysqli_connect('127.0.0.1:3307', 'root', '', 'userdata');
 if($con){
     echo"Connection successful";
 }else{
