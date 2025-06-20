@@ -1,4 +1,4 @@
-Tourist Guide Website 🌍
+Tourist Guide Website
 
 This is a **simple full-stack web project** built as part of a learning and internship experience. It showcases a tourism guide for New Delhi. The website consists of multiple sections like Home, About, Services, Gallery, and Contact Us. The frontend is developed using **HTML and CSS**, and the backend uses **PHP and MySQL** for storing user-submitted form data.
 
