@@ -39,7 +39,7 @@ Run Locally (With PHP + MySQL)
 1. Install XAMPP
 2. Place project folder in htdocs
 3. Start Apache & MySQL
-4. Visit http://localhost/your-folder/index.php
+4. Visit http://localhost/youtubesite/index.php
 5. Set up MySQL database:
 
 sql-
